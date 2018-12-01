@@ -30,7 +30,7 @@ arduino = ArduinoFirmata.connect "/dev/tty.usb-device-name"
 # Repeat the following operations.
 #  1. Read data from sensor.
 #  2. Convert the read data to air temperature.
-#  3. Transfer temperature data to PC.
+#  3. Show temperature data.
 #  4. Stop operation for 1000 ms (1 s).
 while true
 
