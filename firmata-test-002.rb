@@ -13,7 +13,7 @@ def mapping_data(conversion_targetfloat,in_min,in_max,out_min,out_max)
 end
 
 # Minimum value and maximum value of data that each device can return
-PIN_NUMBER_OF_A0               =   14
+PIN_NUMBER_OF_A0               =    0
 DELAY_TIME                     = 1000
 MIN_INPUT_VALUE_OF_ANALOGPIN   =    0
 MAX_INPUT_VALUE_OF_ANALOGPIN   = 1023
@@ -34,7 +34,7 @@ arduino = ArduinoFirmata.connect "/dev/tty.usb-device-name"
 #  4. Stop operation for 1000 ms (1 s).
 while true
 
-  # Read data from sensor (A 0 → 14 pin)
+  # Read data from sensor (A 0 → 0 pin)
   sensor_data = arduino.analog_read(PIN_NUMBER_OF_A0)
 
   # Convert the read data to a voltage value.
