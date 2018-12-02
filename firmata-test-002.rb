@@ -1,5 +1,5 @@
 # Author       : Yoshihiko Hara <goronyanko.h@gmail.com>
-# last updated : 2018/11/29
+# last updated : 2018/12/2
 # Overview     : Get temperature data from "LM61CIZ" connected to PC with Ruby.
 # License      : MIT License
 
