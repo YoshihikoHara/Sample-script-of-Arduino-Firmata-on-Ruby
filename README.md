@@ -21,3 +21,5 @@ https://qiita.com/GORO_Neko/items/f898ea857d6026c25deb
 https://qiita.com/GORO_Neko/items/6a703c9ecdd4ac3b4b77
 
 **firmata-test-004.rb** 
+
+https://qiita.com/GORO_Neko/items/dcc6574d8ae92d3c7b9a
